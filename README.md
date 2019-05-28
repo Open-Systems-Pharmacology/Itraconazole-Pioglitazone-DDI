@@ -2,7 +2,7 @@
 Modeling of published clinical itraconazole-pioglitazone-DDI studies for model evaluation
 
 ### Repository files
-Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the itraconazole-repaglinide-DDI, including the respective observed data digitized from literature reports. The applied [itraconazole](https://github.com/Open-Systems-Pharmacology/Itraconazole-Model) model has been published previously. For further details and documentation please refer to [[1](#reference)].
+Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the itraconazole-pioglitazone-DDI, including the respective observed data digitized from literature reports. The applied [itraconazole](https://github.com/Open-Systems-Pharmacology/Itraconazole-Model) model has been published previously. For further details and documentation please refer to [[1](#reference)].
 
 ### Version information
 PK-Sim Version 7.3.0
